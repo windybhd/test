@@ -12,4 +12,8 @@ public class test2 {
 	public void showname(){
 		System.out.println("showname !");
 	}
+	
+	public void showname2(){
+		System.out.println("showname2 !");
+	}
 }
