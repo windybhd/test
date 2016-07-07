@@ -7,6 +7,7 @@ public class hellogit {
 		System.out.println("hello git!!@#@??fffffffffadfaf?");
 		System.out.println("hello git!!@#@??ff232323f?");
 		System.out.println("feature A !");
+		System.out.println("feature A2 !");
 	}
 
 }
