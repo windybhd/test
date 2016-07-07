@@ -9,5 +9,8 @@ public class hellogit {
 		System.out.println("feature A !");
 		System.out.println("feature A2 !");
 	}
-
+    
+	public void showname(){
+		System.out.println("showname !");
+	}
 }
