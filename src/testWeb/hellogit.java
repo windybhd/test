@@ -11,6 +11,6 @@ public class hellogit {
 	}
     
 	public void showname(){
-		System.out.println("showname !");
+		System.out.println("showname22 !!!!");
 	}
 }
