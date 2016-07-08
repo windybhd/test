@@ -11,7 +11,9 @@ public class hellogit {
 	}
     
 	public void showname(){
+
 		System.out.println("showname22 new hebin3!!!!");
 		System.out.println("showname22 new hebin4!!!!");
+
 	}
 }
